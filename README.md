@@ -55,9 +55,9 @@ I’m Ayush, a developer who has grown from writing simple C-based CLI programs 
 
 ### 🔝 Top Repositories
 
-* 🎓 [College-Event-Website](https://github.com/Ayushrf121/College-Event-Website) — A full-stack website for managing college events. [Live Demo](LIVE_LINK_HERE)
-* 🔐 [Auth_React_App](https://github.com/Ayushrf121/Auth_React_App) — React-based authentication app demonstrating login/signup flows. [Live Demo](LIVE_LINK_HERE)
-* 📄 [Certificate-Sender](https://github.com/Ayushrf121/Certificate-Sender) — Tool for automating certificate generation and distribution. [Live Demo](LIVE_LINK_HERE)
-* 🎵 [Spotify-Clone](https://github.com/Ayushrf121/Spotify-Clone-) — A music-app clone with core playback and UI functionality. [Live Demo](LIVE_LINK_HERE)
-* 🍕 [Pizzachio](https://github.com/Ayushrf121/Pizzachio) — A pizza-ordering website project (your early web dev work). [Live Demo](LIVE_LINK_HERE)
+* 🎓 [College-Event-Website](https://github.com/Ayushrf121/College-Event-Website) — A full-stack website for managing college events. [Live Demo](https://college-event-website-seven.vercel.app/)
+* 🔐 [Auth_React_App](https://github.com/Ayushrf121/Auth_React_App) — React-based authentication app demonstrating login/signup flows. [Live Demo](https://auth-react-app-dun.vercel.app/)
+* 🎵 [Spotify-Clone](https://github.com/Ayushrf121/Spotify-Clone-) — A music-app clone with core playback and UI functionality. [Live Demo](https://spotify-clone-oxto.vercel.app/)
+* 🍕 [Pizzachio](https://github.com/Ayushrf121/Pizzachio) — A pizza-ordering website project (your early web dev work). [Live Demo](https://pizzachio.vercel.app/)
+
 
