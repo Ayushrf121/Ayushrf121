@@ -15,10 +15,10 @@ I’m Ayush, a developer who has grown from writing simple C-based CLI programs 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayushrf121&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayushrf121&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Repositories
 
----
-[![](https://visitcount.itsvg.in/api?id=Ayushrf121&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 [College-Event-Website](https://github.com/Ayushrf121/College-Event-Website) — A full-stack website for managing college events.  
+- 🔐 [Auth_React_App](https://github.com/Ayushrf121/Auth_React_App) — React-based authentication app demonstrating login/signup flows.  
+- 📄 [Certificate-Sender](https://github.com/Ayushrf121/Certificate-Sender) — Tool for automating certificate generation and distribution.  
+- 🎵 [Spotify-Clone](https://github.com/Ayushrf121/Spotify-Clone-) — A music-app clone with core playback and UI functionality.  
+- 🍕 [Pizzachio](https://github.com/Ayushrf121/Pizzachio) — A pizza-ordering website project (your early web dev work).  
